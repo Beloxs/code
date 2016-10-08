@@ -1,2 +1,2 @@
 <?php
-$db = mysql_connect('da', 'ad', 'a');
+$db = mysql_connect('localhost', 'root', '');
